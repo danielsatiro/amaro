@@ -1,0 +1,20 @@
+{
+    "name": "daniel-satiro/amaro",
+    "description": "Teste Amaro",
+    "type": "project",
+    "require": {
+        "php": "^7.1.0"
+    },
+    "authors": [
+        {
+            "name": "Daniel Satiro",
+            "email": "danielsatiro2003@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
